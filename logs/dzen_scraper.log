@@ -1,0 +1,806 @@
+2025-09-09 11:22:32,468 - INFO - Запуск сбора новостей с Dzen.ru
+2025-09-09 11:22:32,795 - INFO - Браузер инициализирован успешно
+2025-09-09 11:22:32,795 - INFO - Переход на главную страницу: https://dzen.ru/news
+2025-09-09 11:22:41,219 - ERROR - Критическая ошибка: Connection closed while reading from the driver
+2025-09-09 11:22:41,226 - ERROR - Future exception was never retrieved
+future: <Future finished exception=TargetClosedError('Target page, context or browser has been closed')>
+playwright._impl._errors.TargetClosedError: Target page, context or browser has been closed
+2025-09-09 11:22:42,089 - INFO - Запуск сбора новостей с Dzen.ru
+2025-09-09 11:22:42,533 - INFO - Браузер инициализирован успешно
+2025-09-09 11:22:42,533 - INFO - Переход на главную страницу: https://dzen.ru/news
+2025-09-09 11:22:54,753 - INFO - Найдено рубрик: 16
+2025-09-09 11:22:54,753 - INFO -   - Главное: https://dzen.ru/news
+2025-09-09 11:22:54,753 - INFO -   - Литва: https://dzen.ru/news/region/lithuania
+2025-09-09 11:22:54,753 - INFO -   - Свежее: https://dzen.ru/news/rubric/chronologic
+2025-09-09 11:22:54,753 - INFO -   - Интересное: https://dzen.ru/news/rubric/personal_feed
+2025-09-09 11:22:54,753 - INFO -   - Общество: https://dzen.ru/news/rubric/society
+2025-09-09 11:22:54,753 - INFO -   - Политика: https://dzen.ru/news/rubric/politics
+2025-09-09 11:22:54,753 - INFO -   - СВО: https://dzen.ru/news/rubric/svo
+2025-09-09 11:22:54,753 - INFO -   - Экономика: https://dzen.ru/news/rubric/business
+2025-09-09 11:22:54,753 - INFO -   - Спорт: https://sportsdzen.ru/news/rubric/sport?utm_source=yxnews&utm_medium=desktop
+2025-09-09 11:22:54,753 - INFO -   - В мире: https://dzen.ru/news/rubric/world
+2025-09-09 11:22:54,754 - INFO -   - Шоу-бизнес: https://dzen.ru/news/rubric/showbusiness
+2025-09-09 11:22:54,754 - INFO -   - Происшествия: https://dzen.ru/news/rubric/incident
+2025-09-09 11:22:54,754 - INFO -   - Культура: https://dzen.ru/news/rubric/culture
+2025-09-09 11:22:54,754 - INFO -   - Технологии: https://dzen.ru/news/rubric/computers
+2025-09-09 11:22:54,754 - INFO -   - Авто: https://dzen.ru/news/rubric/auto
+2025-09-09 11:22:54,754 - INFO -   - Наука: https://dzen.ru/news/rubric/science
+2025-09-09 11:22:56,932 - INFO - Сбор новостей из рубрики: Главное
+2025-09-09 11:23:07,153 - INFO - Собрано 10 новостей из рубрики Главное
+2025-09-09 11:23:08,862 - INFO - Сбор контента для: RS: Трампу стоит удвоить дипломатические усилия после слов Путина
+2025-09-09 11:23:30,682 - WARNING - Не удалось получить контент из https://dzen.ru/a/aL_fzdPKJCJqv4R6?utm_source=yxnews&utm_medium=desktop&utm_referrer=https%3A%2F%2Fdzen.ru%2Fnews%2Fstory%2F9a7525ab-0f92-5c47-807e-ba7b58071fb3: Timeout 15000ms exceeded.
+2025-09-09 11:23:45,760 - WARNING - Не удалось получить контент из https://dzen.ru/a/aL_Rz9PKJCJqvLwk?utm_source=yxnews&utm_medium=desktop&utm_referrer=https%3A%2F%2Fdzen.ru%2Fnews%2Fstory%2F9a7525ab-0f92-5c47-807e-ba7b58071fb3: Timeout 15000ms exceeded.
+2025-09-09 11:24:00,810 - WARNING - Не удалось получить контент из https://dzen.ru/a/aL_Yr9PKJCJqvhf9?utm_source=yxnews&utm_medium=desktop&utm_referrer=https%3A%2F%2Fdzen.ru%2Fnews%2Fstory%2F9a7525ab-0f92-5c47-807e-ba7b58071fb3: Timeout 15000ms exceeded.
+2025-09-09 11:24:00,810 - INFO - Обработано: RS: Трампу стоит удвоить дипломатические усилия после слов Путина
+2025-09-09 11:24:03,724 - INFO - Сбор контента для: Кондратьев сообщил о гибели мужчины после атаки БПЛА на Сочи
+2025-09-09 11:24:32,259 - WARNING - Не удалось получить контент из https://dzen.ru/a/aL-RA9PKJCJqs1US?utm_source=yxnews&utm_medium=desktop&utm_referrer=https%3A%2F%2Fdzen.ru%2Fnews%2Fstory%2F69441179-9bc6-5402-a811-010078e1297e: Timeout 15000ms exceeded.
+2025-09-09 11:24:34,281 - ERROR - Критическая ошибка: Connection closed while reading from the driver
+2025-09-09 11:24:34,293 - ERROR - Future exception was never retrieved
+future: <Future finished exception=TargetClosedError('Target page, context or browser has been closed')>
+playwright._impl._errors.TargetClosedError: Target page, context or browser has been closed
+2025-09-09 11:27:58,836 - INFO - Запуск сбора новостей с Dzen.ru
+2025-09-09 11:27:59,309 - INFO - Браузер инициализирован успешно
+2025-09-09 11:27:59,309 - INFO - Переход на главную страницу: https://dzen.ru/news
+2025-09-09 11:28:11,155 - INFO - Найдено рубрик: 16
+2025-09-09 11:28:11,155 - INFO -   - Главное: https://dzen.ru/news
+2025-09-09 11:28:11,155 - INFO -   - Литва: https://dzen.ru/news/region/lithuania
+2025-09-09 11:28:11,156 - INFO -   - Свежее: https://dzen.ru/news/rubric/chronologic
+2025-09-09 11:28:11,156 - INFO -   - Интересное: https://dzen.ru/news/rubric/personal_feed
+2025-09-09 11:28:11,156 - INFO -   - Общество: https://dzen.ru/news/rubric/society
+2025-09-09 11:28:11,156 - INFO -   - Политика: https://dzen.ru/news/rubric/politics
+2025-09-09 11:28:11,156 - INFO -   - СВО: https://dzen.ru/news/rubric/svo
+2025-09-09 11:28:11,156 - INFO -   - Экономика: https://dzen.ru/news/rubric/business
+2025-09-09 11:28:11,156 - INFO -   - Спорт: https://sportsdzen.ru/news/rubric/sport?utm_source=yxnews&utm_medium=desktop
+2025-09-09 11:28:11,156 - INFO -   - В мире: https://dzen.ru/news/rubric/world
+2025-09-09 11:28:11,156 - INFO -   - Шоу-бизнес: https://dzen.ru/news/rubric/showbusiness
+2025-09-09 11:28:11,156 - INFO -   - Происшествия: https://dzen.ru/news/rubric/incident
+2025-09-09 11:28:11,156 - INFO -   - Культура: https://dzen.ru/news/rubric/culture
+2025-09-09 11:28:11,156 - INFO -   - Технологии: https://dzen.ru/news/rubric/computers
+2025-09-09 11:28:11,156 - INFO -   - Авто: https://dzen.ru/news/rubric/auto
+2025-09-09 11:28:11,156 - INFO -   - Наука: https://dzen.ru/news/rubric/science
+2025-09-09 11:28:14,929 - INFO - Сбор новостей из рубрики: Главное
+2025-09-09 11:28:22,794 - INFO - Собрано 10 новостей из рубрики Главное
+2025-09-09 11:28:25,693 - INFO - Сбор контента для: RS: Трампу стоит удвоить дипломатические усилия после слов Путина
+2025-09-09 11:28:32,821 - INFO - Обработано: RS: Трампу стоит удвоить дипломатические усилия после слов Путина
+2025-09-09 11:28:34,973 - INFO - Сбор контента для: Кондратьев сообщил о гибели мужчины после атаки БПЛА на Сочи
+2025-09-09 11:29:04,973 - ERROR - Ошибка при получении контента сюжета Кондратьев сообщил о гибели мужчины после атаки БПЛА на Сочи: Timeout 30000ms exceeded.
+2025-09-09 11:29:04,973 - INFO - Обработано: Кондратьев сообщил о гибели мужчины после атаки БПЛА на Сочи
+2025-09-09 11:29:06,337 - INFO - Сбор контента для: Парламент Франции выразил вотум недоверия и отправил в отставку кабмин Байру
+2025-09-09 11:29:36,336 - ERROR - Ошибка при получении контента сюжета Парламент Франции выразил вотум недоверия и отправил в отставку кабмин Байру: Timeout 30000ms exceeded.
+2025-09-09 11:29:36,336 - INFO - Обработано: Парламент Франции выразил вотум недоверия и отправил в отставку кабмин Байру
+2025-09-09 11:29:39,082 - INFO - Сбор контента для: Симоньян после операции поблагодарила всех, кто переживал и молился за нее
+2025-09-09 11:30:09,082 - ERROR - Ошибка при получении контента сюжета Симоньян после операции поблагодарила всех, кто переживал и молился за нее: Timeout 30000ms exceeded.
+2025-09-09 11:30:09,082 - INFO - Обработано: Симоньян после операции поблагодарила всех, кто переживал и молился за нее
+2025-09-09 11:30:10,614 - INFO - Сбор контента для: Кадыров рассказал, что удар по генштабу ВСУ ликвидировал девять человек
+2025-09-09 11:30:14,849 - ERROR - Критическая ошибка: Connection closed while reading from the driver
+2025-09-09 11:30:14,857 - ERROR - Future exception was never retrieved
+future: <Future finished exception=TargetClosedError('Target page, context or browser has been closed')>
+playwright._impl._errors.TargetClosedError: Target page, context or browser has been closed
+2025-09-09 11:30:15,731 - INFO - Запуск сбора новостей с Dzen.ru
+2025-09-09 11:30:16,169 - INFO - Браузер инициализирован успешно
+2025-09-09 11:30:16,170 - INFO - Переход на главную страницу: https://dzen.ru/news
+2025-09-09 11:30:28,490 - INFO - Найдено рубрик: 16
+2025-09-09 11:30:28,490 - INFO -   - Главное: https://dzen.ru/news
+2025-09-09 11:30:28,490 - INFO -   - Литва: https://dzen.ru/news/region/lithuania
+2025-09-09 11:30:28,490 - INFO -   - Свежее: https://dzen.ru/news/rubric/chronologic
+2025-09-09 11:30:28,490 - INFO -   - Интересное: https://dzen.ru/news/rubric/personal_feed
+2025-09-09 11:30:28,490 - INFO -   - Общество: https://dzen.ru/news/rubric/society
+2025-09-09 11:30:28,490 - INFO -   - Политика: https://dzen.ru/news/rubric/politics
+2025-09-09 11:30:28,490 - INFO -   - СВО: https://dzen.ru/news/rubric/svo
+2025-09-09 11:30:28,490 - INFO -   - Экономика: https://dzen.ru/news/rubric/business
+2025-09-09 11:30:28,490 - INFO -   - Спорт: https://sportsdzen.ru/news/rubric/sport?utm_source=yxnews&utm_medium=desktop
+2025-09-09 11:30:28,490 - INFO -   - В мире: https://dzen.ru/news/rubric/world
+2025-09-09 11:30:28,490 - INFO -   - Шоу-бизнес: https://dzen.ru/news/rubric/showbusiness
+2025-09-09 11:30:28,490 - INFO -   - Происшествия: https://dzen.ru/news/rubric/incident
+2025-09-09 11:30:28,491 - INFO -   - Культура: https://dzen.ru/news/rubric/culture
+2025-09-09 11:30:28,491 - INFO -   - Технологии: https://dzen.ru/news/rubric/computers
+2025-09-09 11:30:28,491 - INFO -   - Авто: https://dzen.ru/news/rubric/auto
+2025-09-09 11:30:28,491 - INFO -   - Наука: https://dzen.ru/news/rubric/science
+2025-09-09 11:30:32,279 - INFO - Сбор новостей из рубрики: Главное
+2025-09-09 11:30:40,893 - INFO - Собрано 10 новостей из рубрики Главное
+2025-09-09 11:30:42,404 - INFO - Сбор контента для: На канал Путина в Max подписались более 150 тыс. человек
+2025-09-09 11:30:49,150 - INFO - Обработано: На канал Путина в Max подписались более 150 тыс. человек
+2025-09-09 11:30:50,664 - ERROR - Критическая ошибка: Connection closed while reading from the driver
+2025-09-09 11:30:55,401 - INFO - Запуск сбора новостей с Dzen.ru
+2025-09-09 11:30:55,840 - INFO - Браузер инициализирован успешно
+2025-09-09 11:30:55,840 - INFO - Переход на главную страницу: https://dzen.ru/news
+2025-09-09 11:31:25,841 - ERROR - Ошибка при получении рубрик: Timeout 30000ms exceeded.
+2025-09-09 11:31:25,842 - ERROR - Не удалось получить рубрики
+2025-09-09 11:31:26,014 - WARNING - Не удалось собрать новости
+2025-09-09 11:31:34,555 - INFO - Запуск сбора новостей с Dzen.ru
+2025-09-09 11:31:35,009 - INFO - Браузер инициализирован успешно
+2025-09-09 11:31:35,009 - INFO - Переход на главную страницу: https://dzen.ru/news
+2025-09-09 11:32:05,010 - ERROR - Ошибка при получении рубрик: Timeout 30000ms exceeded.
+2025-09-09 11:32:05,010 - ERROR - Не удалось получить рубрики
+2025-09-09 11:32:05,169 - WARNING - Не удалось собрать новости
+2025-09-09 11:32:26,492 - INFO - Запуск сбора новостей с Dzen.ru
+2025-09-09 11:32:26,968 - INFO - Браузер инициализирован успешно
+2025-09-09 11:32:26,968 - INFO - Переход на главную страницу: https://dzen.ru/news
+2025-09-09 11:32:42,866 - INFO - Найдено рубрик: 16
+2025-09-09 11:32:42,866 - INFO -   - Главное: https://dzen.ru/news
+2025-09-09 11:32:42,866 - INFO -   - Литва: https://dzen.ru/news/region/lithuania
+2025-09-09 11:32:42,866 - INFO -   - Свежее: https://dzen.ru/news/rubric/chronologic
+2025-09-09 11:32:42,866 - INFO -   - Интересное: https://dzen.ru/news/rubric/personal_feed
+2025-09-09 11:32:42,866 - INFO -   - Общество: https://dzen.ru/news/rubric/society
+2025-09-09 11:32:42,866 - INFO -   - Политика: https://dzen.ru/news/rubric/politics
+2025-09-09 11:32:42,866 - INFO -   - СВО: https://dzen.ru/news/rubric/svo
+2025-09-09 11:32:42,866 - INFO -   - Экономика: https://dzen.ru/news/rubric/business
+2025-09-09 11:32:42,867 - INFO -   - Спорт: https://sportsdzen.ru/news/rubric/sport?utm_source=yxnews&utm_medium=desktop
+2025-09-09 11:32:42,867 - INFO -   - В мире: https://dzen.ru/news/rubric/world
+2025-09-09 11:32:42,867 - INFO -   - Шоу-бизнес: https://dzen.ru/news/rubric/showbusiness
+2025-09-09 11:32:42,867 - INFO -   - Происшествия: https://dzen.ru/news/rubric/incident
+2025-09-09 11:32:42,867 - INFO -   - Культура: https://dzen.ru/news/rubric/culture
+2025-09-09 11:32:42,867 - INFO -   - Технологии: https://dzen.ru/news/rubric/computers
+2025-09-09 11:32:42,867 - INFO -   - Авто: https://dzen.ru/news/rubric/auto
+2025-09-09 11:32:42,867 - INFO -   - Наука: https://dzen.ru/news/rubric/science
+2025-09-09 11:32:46,506 - INFO - Сбор новостей из рубрики: Главное
+2025-09-09 11:32:55,055 - INFO - Собрано 10 новостей из рубрики Главное
+2025-09-09 11:32:56,787 - INFO - Сбор контента для: На канал Путина в Max подписались более 150 тыс. человек
+2025-09-09 11:33:26,787 - ERROR - Ошибка при получении контента сюжета На канал Путина в Max подписались более 150 тыс. человек: Timeout 30000ms exceeded.
+2025-09-09 11:33:26,787 - INFO - Обработано: На канал Путина в Max подписались более 150 тыс. человек
+2025-09-09 11:33:28,388 - INFO - Сбор контента для: Правительство России запустило свой канал в MAX
+2025-09-09 11:33:58,387 - ERROR - Ошибка при получении контента сюжета Правительство России запустило свой канал в MAX: Timeout 30000ms exceeded.
+2025-09-09 11:33:58,388 - INFO - Обработано: Правительство России запустило свой канал в MAX
+2025-09-09 11:34:00,786 - INFO - Сбор контента для: RS: Трампу стоит удвоить дипломатические усилия после слов Путина
+2025-09-09 11:34:08,169 - INFO - Обработано: RS: Трампу стоит удвоить дипломатические усилия после слов Путина
+2025-09-09 11:34:09,930 - INFO - Сбор контента для: Симоньян после операции поблагодарила всех, кто переживал и молился за нее
+2025-09-09 11:34:39,929 - ERROR - Ошибка при получении контента сюжета Симоньян после операции поблагодарила всех, кто переживал и молился за нее: Timeout 30000ms exceeded.
+2025-09-09 11:34:39,929 - INFO - Обработано: Симоньян после операции поблагодарила всех, кто переживал и молился за нее
+2025-09-09 11:34:41,082 - INFO - Сбор контента для: Россияне до 1 октября должны выбрать форму получения соцподдержки
+2025-09-09 11:35:11,082 - ERROR - Ошибка при получении контента сюжета Россияне до 1 октября должны выбрать форму получения соцподдержки: Timeout 30000ms exceeded.
+2025-09-09 11:35:11,082 - INFO - Обработано: Россияне до 1 октября должны выбрать форму получения соцподдержки
+2025-09-09 11:35:13,792 - INFO - Сбор контента для: Кондратьев сообщил о гибели мужчины после атаки БПЛА на Сочи
+2025-09-09 11:35:19,901 - INFO - Обработано: Кондратьев сообщил о гибели мужчины после атаки БПЛА на Сочи
+2025-09-09 11:35:20,910 - INFO - Сбор контента для: Кадыров рассказал, что удар по генштабу ВСУ ликвидировал девять человек
+2025-09-09 11:35:27,427 - INFO - Обработано: Кадыров рассказал, что удар по генштабу ВСУ ликвидировал девять человек
+2025-09-09 11:35:28,569 - INFO - Сбор контента для: Арестович усомнился в попадании «Искандера» по зданию правительства Украины
+2025-09-09 11:35:34,729 - INFO - Обработано: Арестович усомнился в попадании «Искандера» по зданию правительства Украины
+2025-09-09 11:35:36,295 - INFO - Сбор контента для: Минфин включил продажу Домодедово в план до конца года
+2025-09-09 11:35:42,964 - INFO - Обработано: Минфин включил продажу Домодедово в план до конца года
+2025-09-09 11:35:45,145 - INFO - Сбор контента для: МИД: иноагенты начали атаку на слова Лаврова о сооружении берлинских стен
+2025-09-09 11:35:51,751 - INFO - Обработано: МИД: иноагенты начали атаку на слова Лаврова о сооружении берлинских стен
+2025-09-09 11:35:54,961 - INFO - Сбор новостей из рубрики: Литва
+2025-09-09 11:36:13,002 - WARNING - Карточки новостей не найдены в рубрике Литва
+2025-09-09 11:36:15,222 - INFO - Сбор новостей из рубрики: Свежее
+2025-09-09 11:36:29,424 - WARNING - Карточки новостей не найдены в рубрике Свежее
+2025-09-09 11:36:31,505 - INFO - Сбор новостей из рубрики: Интересное
+2025-09-09 11:36:48,913 - WARNING - Карточки новостей не найдены в рубрике Интересное
+2025-09-09 11:36:51,833 - INFO - Сбор новостей из рубрики: Общество
+2025-09-09 11:36:57,893 - INFO - Собрано 10 новостей из рубрики Общество
+2025-09-09 11:37:00,099 - INFO - Сбор контента для: Миронов: россияне платят коммунальщикам за их представительские автомобили
+2025-09-09 11:37:30,100 - ERROR - Ошибка при получении контента сюжета Миронов: россияне платят коммунальщикам за их представительские автомобили: Timeout 30000ms exceeded.
+2025-09-09 11:37:30,100 - INFO - Обработано: Миронов: россияне платят коммунальщикам за их представительские автомобили
+2025-09-09 11:37:32,305 - INFO - Сбор контента для: Врачи заявили о рисках целевого обучения студентов-бюджетников
+2025-09-09 11:37:38,116 - INFO - Обработано: Врачи заявили о рисках целевого обучения студентов-бюджетников
+2025-09-09 11:37:39,178 - INFO - Сбор контента для: Песков рассказал, как его пытались развести телефонные мошенники
+2025-09-09 11:37:45,781 - INFO - Обработано: Песков рассказал, как его пытались развести телефонные мошенники
+2025-09-09 11:37:48,238 - INFO - Сбор контента для: Симоньян рассказала о предстоящей ей операции, чтобы избежать слухов
+2025-09-09 11:37:54,720 - INFO - Обработано: Симоньян рассказала о предстоящей ей операции, чтобы избежать слухов
+2025-09-09 11:37:56,904 - INFO - Сбор контента для: Депутат Нилов: в 2026 году индексацию пенсий проведут 1 февраля и 1 апреля
+2025-09-09 11:38:03,411 - INFO - Обработано: Депутат Нилов: в 2026 году индексацию пенсий проведут 1 февраля и 1 апреля
+2025-09-09 11:38:06,096 - INFO - Сбор контента для: Свердловских школьников отправят на дистант и экскурсии в дни выборов
+2025-09-09 11:38:12,650 - INFO - Обработано: Свердловских школьников отправят на дистант и экскурсии в дни выборов
+2025-09-09 11:38:14,812 - INFO - Сбор контента для: РИА Новости: экс-губернатор Сахалина Хорошавин работает в колонии дневальным
+2025-09-09 11:38:20,551 - INFO - Обработано: РИА Новости: экс-губернатор Сахалина Хорошавин работает в колонии дневальным
+2025-09-09 11:38:22,964 - INFO - Сбор контента для: Валерий Гергиев рассказал о дружбе с западными режиссерами
+2025-09-09 11:38:28,323 - INFO - Обработано: Валерий Гергиев рассказал о дружбе с западными режиссерами
+2025-09-09 11:38:31,170 - INFO - Сбор контента для: В Петербурге захотели выделить дополнительно 9 млрд рублей участникам СВО
+2025-09-09 11:39:01,169 - ERROR - Ошибка при получении контента сюжета В Петербурге захотели выделить дополнительно 9 млрд рублей участникам СВО: Timeout 30000ms exceeded.
+2025-09-09 11:39:01,169 - INFO - Обработано: В Петербурге захотели выделить дополнительно 9 млрд рублей участникам СВО
+2025-09-09 11:39:03,869 - INFO - Сбор контента для: «Ъ»: ученые просят Путина не допустить сплошные рубки леса на Байкале
+2025-09-09 11:39:09,789 - INFO - Обработано: «Ъ»: ученые просят Путина не допустить сплошные рубки леса на Байкале
+2025-09-09 11:39:13,247 - INFO - Сбор новостей из рубрики: Политика
+2025-09-09 11:39:19,516 - INFO - Собрано 10 новостей из рубрики Политика
+2025-09-09 11:39:20,603 - INFO - Сбор контента для: Димухамедов заявил об обсуждении передачи США РЗМ в обмен на снятие санкций с РФ
+2025-09-09 11:39:26,877 - INFO - Обработано: Димухамедов заявил об обсуждении передачи США РЗМ в обмен на снятие санкций с РФ
+2025-09-09 11:39:29,463 - INFO - Сбор контента для: RS: Трампу стоит удвоить дипломатические усилия после слов Путина
+2025-09-09 11:39:35,299 - ERROR - Критическая ошибка: Connection closed while reading from the driver
+2025-09-09 11:39:35,308 - ERROR - Future exception was never retrieved
+future: <Future finished exception=TargetClosedError('Target page, context or browser has been closed')>
+playwright._impl._errors.TargetClosedError: Target page, context or browser has been closed
+2025-09-09 11:40:16,484 - INFO - Запуск сбора новостей с Dzen.ru
+2025-09-09 11:40:16,941 - INFO - Браузер инициализирован успешно
+2025-09-09 11:40:16,941 - INFO - Переход на главную страницу: https://dzen.ru/news
+2025-09-09 11:40:28,309 - INFO - Найдено рубрик: 16
+2025-09-09 11:40:28,309 - INFO -   - Главное: https://dzen.ru/news
+2025-09-09 11:40:28,309 - INFO -   - Литва: https://dzen.ru/news/region/lithuania
+2025-09-09 11:40:28,309 - INFO -   - Свежее: https://dzen.ru/news/rubric/chronologic
+2025-09-09 11:40:28,309 - INFO -   - Интересное: https://dzen.ru/news/rubric/personal_feed
+2025-09-09 11:40:28,309 - INFO -   - Общество: https://dzen.ru/news/rubric/society
+2025-09-09 11:40:28,309 - INFO -   - Политика: https://dzen.ru/news/rubric/politics
+2025-09-09 11:40:28,309 - INFO -   - СВО: https://dzen.ru/news/rubric/svo
+2025-09-09 11:40:28,309 - INFO -   - Экономика: https://dzen.ru/news/rubric/business
+2025-09-09 11:40:28,309 - INFO -   - Спорт: https://sportsdzen.ru/news/rubric/sport?utm_source=yxnews&utm_medium=desktop
+2025-09-09 11:40:28,309 - INFO -   - В мире: https://dzen.ru/news/rubric/world
+2025-09-09 11:40:28,309 - INFO -   - Шоу-бизнес: https://dzen.ru/news/rubric/showbusiness
+2025-09-09 11:40:28,309 - INFO -   - Происшествия: https://dzen.ru/news/rubric/incident
+2025-09-09 11:40:28,309 - INFO -   - Культура: https://dzen.ru/news/rubric/culture
+2025-09-09 11:40:28,310 - INFO -   - Технологии: https://dzen.ru/news/rubric/computers
+2025-09-09 11:40:28,310 - INFO -   - Авто: https://dzen.ru/news/rubric/auto
+2025-09-09 11:40:28,310 - INFO -   - Наука: https://dzen.ru/news/rubric/science
+2025-09-09 11:40:32,003 - INFO - Сбор новостей из рубрики: Главное
+2025-09-09 11:40:37,765 - INFO - Собрано 10 новостей из рубрики Главное
+2025-09-09 11:40:39,036 - INFO - Сбор контента для: На канал Путина в Max подписались более 150 тыс. человек
+2025-09-09 11:41:49,034 - ERROR - Ошибка при получении контента сюжета На канал Путина в Max подписались более 150 тыс. человек: Timeout 70000ms exceeded.
+2025-09-09 11:41:49,035 - INFO - Обработано: На канал Путина в Max подписались более 150 тыс. человек
+2025-09-09 11:41:50,427 - INFO - Сбор контента для: Правительство России запустило свой канал в MAX
+2025-09-09 11:42:23,804 - ERROR - Критическая ошибка: Connection closed while reading from the driver
+2025-09-09 11:42:23,812 - ERROR - Future exception was never retrieved
+future: <Future finished exception=TargetClosedError('Target page, context or browser has been closed')>
+playwright._impl._errors.TargetClosedError: Target page, context or browser has been closed
+2025-09-09 11:42:34,522 - INFO - Запуск сбора новостей с Dzen.ru
+2025-09-09 11:42:34,841 - INFO - Браузер инициализирован успешно
+2025-09-09 11:42:34,841 - INFO - Переход на главную страницу: https://dzen.ru/news
+2025-09-09 11:42:46,871 - INFO - Найдено рубрик: 16
+2025-09-09 11:42:46,871 - INFO -   - Главное: https://dzen.ru/news
+2025-09-09 11:42:46,871 - INFO -   - Литва: https://dzen.ru/news/region/lithuania
+2025-09-09 11:42:46,872 - INFO -   - Свежее: https://dzen.ru/news/rubric/chronologic
+2025-09-09 11:42:46,872 - INFO -   - Интересное: https://dzen.ru/news/rubric/personal_feed
+2025-09-09 11:42:46,872 - INFO -   - Общество: https://dzen.ru/news/rubric/society
+2025-09-09 11:42:46,872 - INFO -   - Политика: https://dzen.ru/news/rubric/politics
+2025-09-09 11:42:46,872 - INFO -   - СВО: https://dzen.ru/news/rubric/svo
+2025-09-09 11:42:46,872 - INFO -   - Экономика: https://dzen.ru/news/rubric/business
+2025-09-09 11:42:46,872 - INFO -   - Спорт: https://sportsdzen.ru/news/rubric/sport?utm_source=yxnews&utm_medium=desktop
+2025-09-09 11:42:46,872 - INFO -   - В мире: https://dzen.ru/news/rubric/world
+2025-09-09 11:42:46,872 - INFO -   - Шоу-бизнес: https://dzen.ru/news/rubric/showbusiness
+2025-09-09 11:42:46,872 - INFO -   - Происшествия: https://dzen.ru/news/rubric/incident
+2025-09-09 11:42:46,872 - INFO -   - Культура: https://dzen.ru/news/rubric/culture
+2025-09-09 11:42:46,872 - INFO -   - Технологии: https://dzen.ru/news/rubric/computers
+2025-09-09 11:42:46,872 - INFO -   - Авто: https://dzen.ru/news/rubric/auto
+2025-09-09 11:42:46,872 - INFO -   - Наука: https://dzen.ru/news/rubric/science
+2025-09-09 11:42:50,450 - INFO - Сбор новостей из рубрики: Главное
+2025-09-09 11:43:00,120 - ERROR - Критическая ошибка: Connection closed while reading from the driver
+2025-09-09 11:43:00,125 - ERROR - Future exception was never retrieved
+future: <Future finished exception=TargetClosedError('Target page, context or browser has been closed')>
+playwright._impl._errors.TargetClosedError: Target page, context or browser has been closed
+2025-09-09 11:43:01,990 - INFO - Запуск сбора новостей с Dzen.ru
+2025-09-09 11:43:02,426 - INFO - Браузер инициализирован успешно
+2025-09-09 11:43:02,426 - INFO - Переход на главную страницу: https://dzen.ru/news
+2025-09-09 11:43:14,487 - INFO - Найдено рубрик: 16
+2025-09-09 11:43:14,487 - INFO -   - Главное: https://dzen.ru/news
+2025-09-09 11:43:14,487 - INFO -   - Литва: https://dzen.ru/news/region/lithuania
+2025-09-09 11:43:14,487 - INFO -   - Свежее: https://dzen.ru/news/rubric/chronologic
+2025-09-09 11:43:14,487 - INFO -   - Интересное: https://dzen.ru/news/rubric/personal_feed
+2025-09-09 11:43:14,487 - INFO -   - Общество: https://dzen.ru/news/rubric/society
+2025-09-09 11:43:14,487 - INFO -   - Политика: https://dzen.ru/news/rubric/politics
+2025-09-09 11:43:14,487 - INFO -   - СВО: https://dzen.ru/news/rubric/svo
+2025-09-09 11:43:14,487 - INFO -   - Экономика: https://dzen.ru/news/rubric/business
+2025-09-09 11:43:14,487 - INFO -   - Спорт: https://sportsdzen.ru/news/rubric/sport?utm_source=yxnews&utm_medium=desktop
+2025-09-09 11:43:14,488 - INFO -   - В мире: https://dzen.ru/news/rubric/world
+2025-09-09 11:43:14,488 - INFO -   - Шоу-бизнес: https://dzen.ru/news/rubric/showbusiness
+2025-09-09 11:43:14,488 - INFO -   - Происшествия: https://dzen.ru/news/rubric/incident
+2025-09-09 11:43:14,488 - INFO -   - Культура: https://dzen.ru/news/rubric/culture
+2025-09-09 11:43:14,488 - INFO -   - Технологии: https://dzen.ru/news/rubric/computers
+2025-09-09 11:43:14,488 - INFO -   - Авто: https://dzen.ru/news/rubric/auto
+2025-09-09 11:43:14,488 - INFO -   - Наука: https://dzen.ru/news/rubric/science
+2025-09-09 11:43:17,054 - INFO - Сбор новостей из рубрики: Главное
+2025-09-09 11:43:26,005 - INFO - Собрано 10 новостей из рубрики Главное
+2025-09-09 11:43:27,318 - INFO - Сбор контента для: На канал Путина в Max подписались более 150 тыс. человек
+2025-09-09 11:43:36,590 - ERROR - Критическая ошибка: Connection closed while reading from the driver
+2025-09-09 11:43:36,596 - ERROR - Future exception was never retrieved
+future: <Future finished exception=TargetClosedError('Target page, context or browser has been closed')>
+playwright._impl._errors.TargetClosedError: Target page, context or browser has been closed
+2025-09-09 11:43:38,790 - INFO - Запуск сбора новостей с Dzen.ru
+2025-09-09 11:43:39,234 - INFO - Браузер инициализирован успешно
+2025-09-09 11:43:39,234 - INFO - Переход на главную страницу: https://dzen.ru/news
+2025-09-09 11:43:51,478 - INFO - Найдено рубрик: 16
+2025-09-09 11:43:51,479 - INFO -   - Главное: https://dzen.ru/news
+2025-09-09 11:43:51,479 - INFO -   - Литва: https://dzen.ru/news/region/lithuania
+2025-09-09 11:43:51,479 - INFO -   - Свежее: https://dzen.ru/news/rubric/chronologic
+2025-09-09 11:43:51,479 - INFO -   - Интересное: https://dzen.ru/news/rubric/personal_feed
+2025-09-09 11:43:51,479 - INFO -   - Общество: https://dzen.ru/news/rubric/society
+2025-09-09 11:43:51,479 - INFO -   - Политика: https://dzen.ru/news/rubric/politics
+2025-09-09 11:43:51,479 - INFO -   - СВО: https://dzen.ru/news/rubric/svo
+2025-09-09 11:43:51,479 - INFO -   - Экономика: https://dzen.ru/news/rubric/business
+2025-09-09 11:43:51,479 - INFO -   - Спорт: https://sportsdzen.ru/news/rubric/sport?utm_source=yxnews&utm_medium=desktop
+2025-09-09 11:43:51,479 - INFO -   - В мире: https://dzen.ru/news/rubric/world
+2025-09-09 11:43:51,479 - INFO -   - Шоу-бизнес: https://dzen.ru/news/rubric/showbusiness
+2025-09-09 11:43:51,479 - INFO -   - Происшествия: https://dzen.ru/news/rubric/incident
+2025-09-09 11:43:51,479 - INFO -   - Культура: https://dzen.ru/news/rubric/culture
+2025-09-09 11:43:51,479 - INFO -   - Технологии: https://dzen.ru/news/rubric/computers
+2025-09-09 11:43:51,479 - INFO -   - Авто: https://dzen.ru/news/rubric/auto
+2025-09-09 11:43:51,479 - INFO -   - Наука: https://dzen.ru/news/rubric/science
+2025-09-09 11:43:54,917 - INFO - Сбор новостей из рубрики: Главное
+2025-09-09 11:44:03,273 - INFO - Собрано 10 новостей из рубрики Главное
+2025-09-09 11:44:04,955 - INFO - Сбор контента для: На канал Путина в Max подписались более 150 тыс. человек
+2025-09-09 11:44:11,859 - INFO - Обработано: На канал Путина в Max подписались более 150 тыс. человек
+2025-09-09 11:44:13,212 - INFO - Сбор контента для: Правительство России запустило свой канал в MAX
+2025-09-09 11:44:20,001 - INFO - Обработано: Правительство России запустило свой канал в MAX
+2025-09-09 11:44:22,236 - INFO - Сбор контента для: Кондратьев сообщил о гибели мужчины после атаки БПЛА на Сочи
+2025-09-09 11:45:32,234 - ERROR - Ошибка при получении контента сюжета Кондратьев сообщил о гибели мужчины после атаки БПЛА на Сочи: Timeout 70000ms exceeded.
+2025-09-09 11:45:32,234 - INFO - Обработано: Кондратьев сообщил о гибели мужчины после атаки БПЛА на Сочи
+2025-09-09 11:45:32,234 - INFO - Всего собрано новостей: 3
+2025-09-09 11:45:32,356 - ERROR - Критическая ошибка: [Errno 13] Permission denied: 'output/dzen_news_20250909_114532.json'
+2025-09-09 11:45:57,572 - INFO - Запуск сбора новостей с Dzen.ru
+2025-09-09 11:45:58,031 - INFO - Браузер инициализирован успешно
+2025-09-09 11:45:58,031 - INFO - Переход на главную страницу: https://dzen.ru/news
+2025-09-09 11:46:10,419 - INFO - Найдено рубрик: 16
+2025-09-09 11:46:10,419 - INFO -   - Главное: https://dzen.ru/news
+2025-09-09 11:46:10,419 - INFO -   - Литва: https://dzen.ru/news/region/lithuania
+2025-09-09 11:46:10,419 - INFO -   - Свежее: https://dzen.ru/news/rubric/chronologic
+2025-09-09 11:46:10,419 - INFO -   - Интересное: https://dzen.ru/news/rubric/personal_feed
+2025-09-09 11:46:10,419 - INFO -   - Общество: https://dzen.ru/news/rubric/society
+2025-09-09 11:46:10,420 - INFO -   - Политика: https://dzen.ru/news/rubric/politics
+2025-09-09 11:46:10,420 - INFO -   - СВО: https://dzen.ru/news/rubric/svo
+2025-09-09 11:46:10,420 - INFO -   - Экономика: https://dzen.ru/news/rubric/business
+2025-09-09 11:46:10,420 - INFO -   - Спорт: https://sportsdzen.ru/news/rubric/sport?utm_source=yxnews&utm_medium=desktop
+2025-09-09 11:46:10,420 - INFO -   - В мире: https://dzen.ru/news/rubric/world
+2025-09-09 11:46:10,420 - INFO -   - Шоу-бизнес: https://dzen.ru/news/rubric/showbusiness
+2025-09-09 11:46:10,420 - INFO -   - Происшествия: https://dzen.ru/news/rubric/incident
+2025-09-09 11:46:10,420 - INFO -   - Культура: https://dzen.ru/news/rubric/culture
+2025-09-09 11:46:10,420 - INFO -   - Технологии: https://dzen.ru/news/rubric/computers
+2025-09-09 11:46:10,420 - INFO -   - Авто: https://dzen.ru/news/rubric/auto
+2025-09-09 11:46:10,420 - INFO -   - Наука: https://dzen.ru/news/rubric/science
+2025-09-09 11:46:13,268 - INFO - Сбор новостей из рубрики: Главное
+2025-09-09 11:46:21,889 - INFO - Собрано 10 новостей из рубрики Главное
+2025-09-09 11:46:24,343 - INFO - Сбор контента для: На канал Путина в Max подписались более 150 тыс. человек
+2025-09-09 11:46:56,333 - ERROR - Критическая ошибка: Connection closed while reading from the driver
+2025-09-09 11:46:56,343 - ERROR - Future exception was never retrieved
+future: <Future finished exception=TargetClosedError('Target page, context or browser has been closed')>
+playwright._impl._errors.TargetClosedError: Target page, context or browser has been closed
+2025-09-09 11:46:57,092 - INFO - Запуск сбора новостей с Dzen.ru
+2025-09-09 11:46:57,545 - INFO - Браузер инициализирован успешно
+2025-09-09 11:46:57,545 - INFO - Переход на главную страницу: https://dzen.ru/news
+2025-09-09 11:47:08,656 - INFO - Найдено рубрик: 16
+2025-09-09 11:47:08,656 - INFO -   - Главное: https://dzen.ru/news
+2025-09-09 11:47:08,656 - INFO -   - Литва: https://dzen.ru/news/region/lithuania
+2025-09-09 11:47:08,657 - INFO -   - Свежее: https://dzen.ru/news/rubric/chronologic
+2025-09-09 11:47:08,657 - INFO -   - Интересное: https://dzen.ru/news/rubric/personal_feed
+2025-09-09 11:47:08,657 - INFO -   - Политика: https://dzen.ru/news/rubric/politics
+2025-09-09 11:47:08,657 - INFO -   - Общество: https://dzen.ru/news/rubric/society
+2025-09-09 11:47:08,657 - INFO -   - СВО: https://dzen.ru/news/rubric/svo
+2025-09-09 11:47:08,657 - INFO -   - Экономика: https://dzen.ru/news/rubric/business
+2025-09-09 11:47:08,657 - INFO -   - Спорт: https://sportsdzen.ru/news/rubric/sport?utm_source=yxnews&utm_medium=desktop
+2025-09-09 11:47:08,657 - INFO -   - В мире: https://dzen.ru/news/rubric/world
+2025-09-09 11:47:08,657 - INFO -   - Шоу-бизнес: https://dzen.ru/news/rubric/showbusiness
+2025-09-09 11:47:08,657 - INFO -   - Происшествия: https://dzen.ru/news/rubric/incident
+2025-09-09 11:47:08,657 - INFO -   - Культура: https://dzen.ru/news/rubric/culture
+2025-09-09 11:47:08,657 - INFO -   - Технологии: https://dzen.ru/news/rubric/computers
+2025-09-09 11:47:08,657 - INFO -   - Авто: https://dzen.ru/news/rubric/auto
+2025-09-09 11:47:08,658 - INFO -   - Наука: https://dzen.ru/news/rubric/science
+2025-09-09 11:47:11,026 - INFO - Сбор новостей из рубрики: Главное
+2025-09-09 11:47:20,976 - INFO - Собрано 10 новостей из рубрики Главное
+2025-09-09 11:47:22,548 - INFO - Сбор контента для: На канал Путина в Max подписались более 150 тыс. человек
+2025-09-09 11:48:32,548 - ERROR - Ошибка при получении контента сюжета На канал Путина в Max подписались более 150 тыс. человек: Timeout 70000ms exceeded.
+2025-09-09 11:48:32,548 - INFO - Обработано: На канал Путина в Max подписались более 150 тыс. человек
+2025-09-09 11:48:34,106 - INFO - Сбор контента для: Правительство России запустило свой канал в MAX
+2025-09-09 11:49:44,103 - ERROR - Ошибка при получении контента сюжета Правительство России запустило свой канал в MAX: Timeout 70000ms exceeded.
+2025-09-09 11:49:44,104 - INFO - Обработано: Правительство России запустило свой канал в MAX
+2025-09-09 11:49:46,446 - INFO - Сбор контента для: Кондратьев сообщил о гибели мужчины после атаки БПЛА на Сочи
+2025-09-09 11:50:56,442 - ERROR - Ошибка при получении контента сюжета Кондратьев сообщил о гибели мужчины после атаки БПЛА на Сочи: Timeout 70000ms exceeded.
+2025-09-09 11:50:56,442 - INFO - Обработано: Кондратьев сообщил о гибели мужчины после атаки БПЛА на Сочи
+2025-09-09 11:50:56,443 - INFO - Всего собрано новостей: 3
+2025-09-09 11:50:56,544 - INFO - JSON сохранен: output/dzen_news_20250909_115056.json
+2025-09-09 11:50:56,545 - INFO - RSS сохранен: output/dzen_news_20250909_115056.rss
+2025-09-09 11:50:56,546 - INFO - Актуальная RSS лента: output/dzen_news_current.rss
+2025-09-09 11:50:56,546 - INFO - Успешно обработано 3 новостей
+2025-09-09 11:52:19,811 - INFO - Запуск сбора новостей с Dzen.ru
+2025-09-09 11:52:20,273 - INFO - Браузер инициализирован успешно
+2025-09-09 11:52:20,273 - INFO - Переход на главную страницу: https://dzen.ru/news
+2025-09-09 11:52:32,802 - INFO - Найдено рубрик: 16
+2025-09-09 11:52:32,802 - INFO -   - Главное: https://dzen.ru/news
+2025-09-09 11:52:32,802 - INFO -   - Литва: https://dzen.ru/news/region/lithuania
+2025-09-09 11:52:32,802 - INFO -   - Свежее: https://dzen.ru/news/rubric/chronologic
+2025-09-09 11:52:32,803 - INFO -   - Интересное: https://dzen.ru/news/rubric/personal_feed
+2025-09-09 11:52:32,803 - INFO -   - Общество: https://dzen.ru/news/rubric/society
+2025-09-09 11:52:32,803 - INFO -   - Политика: https://dzen.ru/news/rubric/politics
+2025-09-09 11:52:32,803 - INFO -   - СВО: https://dzen.ru/news/rubric/svo
+2025-09-09 11:52:32,803 - INFO -   - Экономика: https://dzen.ru/news/rubric/business
+2025-09-09 11:52:32,803 - INFO -   - Спорт: https://sportsdzen.ru/news/rubric/sport?utm_source=yxnews&utm_medium=desktop
+2025-09-09 11:52:32,803 - INFO -   - В мире: https://dzen.ru/news/rubric/world
+2025-09-09 11:52:32,803 - INFO -   - Шоу-бизнес: https://dzen.ru/news/rubric/showbusiness
+2025-09-09 11:52:32,803 - INFO -   - Происшествия: https://dzen.ru/news/rubric/incident
+2025-09-09 11:52:32,803 - INFO -   - Культура: https://dzen.ru/news/rubric/culture
+2025-09-09 11:52:32,803 - INFO -   - Технологии: https://dzen.ru/news/rubric/computers
+2025-09-09 11:52:32,803 - INFO -   - Авто: https://dzen.ru/news/rubric/auto
+2025-09-09 11:52:32,803 - INFO -   - Наука: https://dzen.ru/news/rubric/science
+2025-09-09 11:52:36,030 - INFO - Сбор новостей из рубрики: Главное
+2025-09-09 11:52:44,554 - INFO - Собрано 10 новостей из рубрики Главное
+2025-09-09 11:52:46,219 - INFO - Сбор контента для: На канал Путина в Max подписались более 150 тыс. человек
+2025-09-09 11:52:48,440 - INFO - Обработано: На канал Путина в Max подписались более 150 тыс. человек
+2025-09-09 11:52:50,352 - INFO - Сбор контента для: Правительство России запустило свой канал в MAX
+2025-09-09 11:52:53,308 - INFO - Обработано: Правительство России запустило свой канал в MAX
+2025-09-09 11:52:56,110 - INFO - Сбор контента для: Кондратьев сообщил о гибели мужчины после атаки БПЛА на Сочи
+2025-09-09 11:52:58,555 - INFO - Обработано: Кондратьев сообщил о гибели мужчины после атаки БПЛА на Сочи
+2025-09-09 11:53:01,287 - INFO - Сбор контента для: Симоньян после операции поблагодарила всех, кто переживал и молился за нее
+2025-09-09 11:53:03,814 - INFO - Обработано: Симоньян после операции поблагодарила всех, кто переживал и молился за нее
+2025-09-09 11:53:06,064 - INFO - Сбор контента для: Россияне до 1 октября должны выбрать форму получения соцподдержки
+2025-09-09 11:53:09,252 - INFO - Обработано: Россияне до 1 октября должны выбрать форму получения соцподдержки
+2025-09-09 11:53:13,054 - INFO - Сбор новостей из рубрики: Литва
+2025-09-09 11:53:16,020 - ERROR - Критическая ошибка: Connection closed while reading from the driver
+2025-09-09 11:53:16,029 - ERROR - Future exception was never retrieved
+future: <Future finished exception=TargetClosedError('Target page, context or browser has been closed')>
+playwright._impl._errors.TargetClosedError: Target page, context or browser has been closed
+2025-09-09 11:54:16,816 - INFO - Запуск сбора новостей с Dzen.ru
+2025-09-09 11:54:17,311 - INFO - Браузер инициализирован успешно
+2025-09-09 11:54:17,311 - INFO - Переход на главную страницу: https://dzen.ru/news
+2025-09-09 11:54:29,016 - INFO - Найдено рубрик: 16
+2025-09-09 11:54:29,016 - INFO -   - Главное: https://dzen.ru/news
+2025-09-09 11:54:29,016 - INFO -   - Литва: https://dzen.ru/news/region/lithuania
+2025-09-09 11:54:29,016 - INFO -   - Свежее: https://dzen.ru/news/rubric/chronologic
+2025-09-09 11:54:29,016 - INFO -   - Интересное: https://dzen.ru/news/rubric/personal_feed
+2025-09-09 11:54:29,016 - INFO -   - Общество: https://dzen.ru/news/rubric/society
+2025-09-09 11:54:29,016 - INFO -   - Политика: https://dzen.ru/news/rubric/politics
+2025-09-09 11:54:29,016 - INFO -   - СВО: https://dzen.ru/news/rubric/svo
+2025-09-09 11:54:29,017 - INFO -   - Экономика: https://dzen.ru/news/rubric/business
+2025-09-09 11:54:29,017 - INFO -   - Спорт: https://sportsdzen.ru/news/rubric/sport?utm_source=yxnews&utm_medium=desktop
+2025-09-09 11:54:29,017 - INFO -   - В мире: https://dzen.ru/news/rubric/world
+2025-09-09 11:54:29,017 - INFO -   - Шоу-бизнес: https://dzen.ru/news/rubric/showbusiness
+2025-09-09 11:54:29,017 - INFO -   - Происшествия: https://dzen.ru/news/rubric/incident
+2025-09-09 11:54:29,017 - INFO -   - Культура: https://dzen.ru/news/rubric/culture
+2025-09-09 11:54:29,017 - INFO -   - Технологии: https://dzen.ru/news/rubric/computers
+2025-09-09 11:54:29,017 - INFO -   - Авто: https://dzen.ru/news/rubric/auto
+2025-09-09 11:54:29,017 - INFO -   - Наука: https://dzen.ru/news/rubric/science
+2025-09-09 11:54:31,299 - INFO - Сбор новостей из рубрики: Главное
+2025-09-09 11:54:39,143 - INFO - Собрано 10 новостей из рубрики Главное
+2025-09-09 11:54:41,215 - INFO - Сбор контента для: На канал Путина в Max подписались более 150 тыс. человек
+2025-09-09 11:54:44,275 - INFO - Обработано: На канал Путина в Max подписались более 150 тыс. человек
+2025-09-09 11:54:46,678 - INFO - Сбор контента для: Правительство России запустило свой канал в MAX
+2025-09-09 11:54:50,183 - INFO - Обработано: Правительство России запустило свой канал в MAX
+2025-09-09 11:54:50,543 - ERROR - Критическая ошибка: Connection closed while reading from the driver
+2025-09-09 11:55:29,960 - INFO - Запуск сбора новостей с Dzen.ru
+2025-09-09 11:55:30,426 - INFO - Браузер инициализирован успешно
+2025-09-09 11:55:30,426 - INFO - Переход на главную страницу: https://dzen.ru/news
+2025-09-09 11:55:42,052 - INFO - Найдено рубрик: 16
+2025-09-09 11:55:42,052 - INFO -   - Главное: https://dzen.ru/news
+2025-09-09 11:55:42,052 - INFO -   - Литва: https://dzen.ru/news/region/lithuania
+2025-09-09 11:55:42,052 - INFO -   - Свежее: https://dzen.ru/news/rubric/chronologic
+2025-09-09 11:55:42,052 - INFO -   - Интересное: https://dzen.ru/news/rubric/personal_feed
+2025-09-09 11:55:42,052 - INFO -   - Общество: https://dzen.ru/news/rubric/society
+2025-09-09 11:55:42,053 - INFO -   - Политика: https://dzen.ru/news/rubric/politics
+2025-09-09 11:55:42,053 - INFO -   - СВО: https://dzen.ru/news/rubric/svo
+2025-09-09 11:55:42,053 - INFO -   - Экономика: https://dzen.ru/news/rubric/business
+2025-09-09 11:55:42,053 - INFO -   - Спорт: https://sportsdzen.ru/news/rubric/sport?utm_source=yxnews&utm_medium=desktop
+2025-09-09 11:55:42,053 - INFO -   - В мире: https://dzen.ru/news/rubric/world
+2025-09-09 11:55:42,053 - INFO -   - Шоу-бизнес: https://dzen.ru/news/rubric/showbusiness
+2025-09-09 11:55:42,053 - INFO -   - Происшествия: https://dzen.ru/news/rubric/incident
+2025-09-09 11:55:42,053 - INFO -   - Культура: https://dzen.ru/news/rubric/culture
+2025-09-09 11:55:42,053 - INFO -   - Технологии: https://dzen.ru/news/rubric/computers
+2025-09-09 11:55:42,053 - INFO -   - Авто: https://dzen.ru/news/rubric/auto
+2025-09-09 11:55:42,053 - INFO -   - Наука: https://dzen.ru/news/rubric/science
+2025-09-09 11:55:44,411 - INFO - Сбор новостей из рубрики: Главное
+2025-09-09 11:55:54,459 - INFO - Собрано 10 новостей из рубрики Главное
+2025-09-09 11:55:56,234 - INFO - Сбор контента для: На канал Путина в Max подписались более 150 тыс. человек
+2025-09-09 11:55:59,983 - INFO - Обработано: На канал Путина в Max подписались более 150 тыс. человек
+2025-09-09 11:56:01,313 - INFO - Сбор контента для: Правительство России запустило свой канал в MAX
+2025-09-09 11:56:04,797 - INFO - Обработано: Правительство России запустило свой канал в MAX
+2025-09-09 11:56:07,485 - INFO - Сбор контента для: Кондратьев сообщил о гибели мужчины после атаки БПЛА на Сочи
+2025-09-09 11:56:10,784 - INFO - Обработано: Кондратьев сообщил о гибели мужчины после атаки БПЛА на Сочи
+2025-09-09 11:56:10,784 - INFO - Всего собрано новостей: 3
+2025-09-09 11:56:10,885 - INFO - JSON сохранен: output/dzen_news_20250909_115610.json
+2025-09-09 11:56:10,886 - INFO - RSS сохранен: output/dzen_news_20250909_115610.rss
+2025-09-09 11:56:10,886 - INFO - Актуальная RSS лента: output/dzen_news_current.rss
+2025-09-09 11:56:10,887 - INFO - Успешно обработано 3 новостей
+2025-09-09 12:19:52,906 - INFO - Запуск сбора новостей с Dzen.ru
+2025-09-09 12:19:54,057 - INFO - Браузер инициализирован успешно
+2025-09-09 12:19:54,057 - INFO - Переход на главную страницу: https://dzen.ru/news
+2025-09-09 12:20:05,897 - INFO - Найдено рубрик: 16
+2025-09-09 12:20:05,897 - INFO -   - Главное: https://dzen.ru/news
+2025-09-09 12:20:05,897 - INFO -   - Литва: https://dzen.ru/news/region/lithuania
+2025-09-09 12:20:05,897 - INFO -   - Свежее: https://dzen.ru/news/rubric/chronologic
+2025-09-09 12:20:05,897 - INFO -   - Интересное: https://dzen.ru/news/rubric/personal_feed
+2025-09-09 12:20:05,897 - INFO -   - Общество: https://dzen.ru/news/rubric/society
+2025-09-09 12:20:05,897 - INFO -   - Политика: https://dzen.ru/news/rubric/politics
+2025-09-09 12:20:05,897 - INFO -   - СВО: https://dzen.ru/news/rubric/svo
+2025-09-09 12:20:05,897 - INFO -   - Экономика: https://dzen.ru/news/rubric/business
+2025-09-09 12:20:05,897 - INFO -   - Спорт: https://sportsdzen.ru/news/rubric/sport?utm_source=yxnews&utm_medium=desktop
+2025-09-09 12:20:05,897 - INFO -   - В мире: https://dzen.ru/news/rubric/world
+2025-09-09 12:20:05,897 - INFO -   - Шоу-бизнес: https://dzen.ru/news/rubric/showbusiness
+2025-09-09 12:20:05,897 - INFO -   - Происшествия: https://dzen.ru/news/rubric/incident
+2025-09-09 12:20:05,898 - INFO -   - Культура: https://dzen.ru/news/rubric/culture
+2025-09-09 12:20:05,898 - INFO -   - Технологии: https://dzen.ru/news/rubric/computers
+2025-09-09 12:20:05,898 - INFO -   - Авто: https://dzen.ru/news/rubric/auto
+2025-09-09 12:20:05,898 - INFO -   - Наука: https://dzen.ru/news/rubric/science
+2025-09-09 12:20:08,770 - INFO - Сбор новостей из рубрики: Главное
+2025-09-09 12:20:18,502 - INFO - Собрано 10 новостей из рубрики Главное
+2025-09-09 12:20:19,582 - INFO - Сбор контента для: На канал Путина в Max подписались более 150 тыс. человек
+2025-09-09 12:20:23,316 - INFO - Поиск детальных статей для сюжета
+2025-09-09 12:20:23,459 - INFO - Найдено 14 ссылок на детальные статьи
+2025-09-09 12:20:23,464 - INFO - Получение полного текста статьи 1: https://dzen.ru/a/aL_QuQjYcBIBtnyv?utm_source=yxnews&utm_medium=desktop&utm_referrer=https%3A%2F%2Fdzen.ru%2Fnews%2Fstory%2Fc044cf2f-1c86-5dc2-b5ea-31f6d578394d
+2025-09-09 12:20:26,282 - INFO - Получен текст статьи 1 (964 символов)
+2025-09-09 12:20:27,901 - WARNING - Ошибка при получении статьи 2: Execution context was destroyed, most likely because of a navigation
+2025-09-09 12:20:27,901 - INFO - Получено 1 полных текстов статей
+2025-09-09 12:20:30,122 - INFO - Обработано: На канал Путина в Max подписались более 150 тыс. человек
+2025-09-09 12:20:31,437 - INFO - Сбор контента для: Правительство России запустило свой канал в MAX
+2025-09-09 12:20:34,999 - INFO - Поиск детальных статей для сюжета
+2025-09-09 12:20:35,044 - INFO - Найдено 14 ссылок на детальные статьи
+2025-09-09 12:20:35,058 - INFO - Получение полного текста статьи 1: https://dzen.ru/a/aL_b3NPKJCJqvrhq?utm_source=yxnews&utm_medium=desktop&utm_referrer=https%3A%2F%2Fdzen.ru%2Fnews%2Fstory%2Fcc778f59-9b75-5380-9790-2911787c3fb7
+2025-09-09 12:20:38,060 - INFO - Получен текст статьи 1 (530 символов)
+2025-09-09 12:20:39,532 - WARNING - Ошибка при получении статьи 2: Execution context was destroyed, most likely because of a navigation
+2025-09-09 12:20:39,533 - INFO - Получено 1 полных текстов статей
+2025-09-09 12:20:41,651 - INFO - Обработано: Правительство России запустило свой канал в MAX
+2025-09-09 12:20:43,313 - INFO - Сбор контента для: Пенсионер из Подмосковья выиграл 33 млн рублей в лотерею «Мечталлион»
+2025-09-09 12:20:45,792 - INFO - Поиск детальных статей для сюжета
+2025-09-09 12:20:45,801 - INFO - Найдено 7 ссылок на детальные статьи
+2025-09-09 12:20:46,068 - INFO - Получение полного текста статьи 1: https://dzen.ru/a/aL_X3dPKJCJqvfTd?utm_source=yxnews&utm_medium=desktop&utm_referrer=https%3A%2F%2Fdzen.ru%2Fnews%2Fstory%2Fa6bcadaf-98d2-54b9-aa5f-1891bcd0861d
+2025-09-09 12:20:49,574 - INFO - Получен текст статьи 1 (1177 символов)
+2025-09-09 12:20:50,998 - WARNING - Ошибка при получении статьи 2: Execution context was destroyed, most likely because of a navigation
+2025-09-09 12:20:50,998 - INFO - Получено 1 полных текстов статей
+2025-09-09 12:20:53,065 - INFO - Обработано: Пенсионер из Подмосковья выиграл 33 млн рублей в лотерею «Мечталлион»
+2025-09-09 12:20:53,065 - INFO - Всего собрано новостей: 3
+2025-09-09 12:20:53,172 - INFO - JSON сохранен: output/dzen_news_20250909_122053.json
+2025-09-09 12:20:53,173 - INFO - RSS сохранен: output/dzen_news_20250909_122053.rss
+2025-09-09 12:20:53,174 - INFO - Актуальная RSS лента: output/dzen_news_current.rss
+2025-09-09 12:20:53,174 - INFO - Успешно обработано 3 новостей
+2025-09-09 12:28:27,155 - INFO - База данных инициализирована: output/news_database.db
+2025-09-09 12:28:27,155 - INFO - Запуск сбора новостей с Dzen.ru
+2025-09-09 12:28:27,642 - INFO - Браузер инициализирован успешно
+2025-09-09 12:28:27,642 - INFO - Переход на главную страницу: https://dzen.ru/news
+2025-09-09 12:28:39,871 - INFO - Найдено рубрик: 16
+2025-09-09 12:28:39,871 - INFO -   - Главное: https://dzen.ru/news
+2025-09-09 12:28:39,871 - INFO -   - Литва: https://dzen.ru/news/region/lithuania
+2025-09-09 12:28:39,871 - INFO -   - Свежее: https://dzen.ru/news/rubric/chronologic
+2025-09-09 12:28:39,871 - INFO -   - Интересное: https://dzen.ru/news/rubric/personal_feed
+2025-09-09 12:28:39,871 - INFO -   - Общество: https://dzen.ru/news/rubric/society
+2025-09-09 12:28:39,871 - INFO -   - Политика: https://dzen.ru/news/rubric/politics
+2025-09-09 12:28:39,871 - INFO -   - СВО: https://dzen.ru/news/rubric/svo
+2025-09-09 12:28:39,871 - INFO -   - Экономика: https://dzen.ru/news/rubric/business
+2025-09-09 12:28:39,871 - INFO -   - Спорт: https://sportsdzen.ru/news/rubric/sport?utm_source=yxnews&utm_medium=desktop
+2025-09-09 12:28:39,871 - INFO -   - В мире: https://dzen.ru/news/rubric/world
+2025-09-09 12:28:39,871 - INFO -   - Шоу-бизнес: https://dzen.ru/news/rubric/showbusiness
+2025-09-09 12:28:39,871 - INFO -   - Происшествия: https://dzen.ru/news/rubric/incident
+2025-09-09 12:28:39,872 - INFO -   - Культура: https://dzen.ru/news/rubric/culture
+2025-09-09 12:28:39,872 - INFO -   - Технологии: https://dzen.ru/news/rubric/computers
+2025-09-09 12:28:39,872 - INFO -   - Авто: https://dzen.ru/news/rubric/auto
+2025-09-09 12:28:39,872 - INFO -   - Наука: https://dzen.ru/news/rubric/science
+2025-09-09 12:28:42,022 - INFO - Сбор новостей из рубрики: Главное
+2025-09-09 12:28:50,118 - INFO - Собрано 10 новостей из рубрики Главное
+2025-09-09 12:28:53,072 - INFO - Сбор контента для: На канал Путина в Max подписались более 150 тыс. человек
+2025-09-09 12:28:57,017 - INFO - Поиск детальных статей для сюжета
+2025-09-09 12:28:57,028 - INFO - Найдено 14 ссылок на детальные статьи
+2025-09-09 12:28:57,032 - INFO - Получение полного текста статьи 1: https://dzen.ru/a/aL_QuQjYcBIBtnyv?utm_source=yxnews&utm_medium=desktop&utm_referrer=https%3A%2F%2Fdzen.ru%2Fnews%2Fstory%2Fc044cf2f-1c86-5dc2-b5ea-31f6d578394d
+2025-09-09 12:29:00,046 - INFO - Получен текст статьи 1 (964 символов)
+2025-09-09 12:29:01,752 - WARNING - Ошибка при получении статьи 2: Execution context was destroyed, most likely because of a navigation
+2025-09-09 12:29:01,752 - INFO - Получено 1 полных текстов статей
+2025-09-09 12:29:03,855 - INFO - Обработано: На канал Путина в Max подписались более 150 тыс. человек
+2025-09-09 12:29:06,759 - INFO - Сбор контента для: Российское правительство запустило официальный канал в мессенджере MAX
+2025-09-09 12:29:09,992 - INFO - Поиск детальных статей для сюжета
+2025-09-09 12:29:10,003 - INFO - Найдено 14 ссылок на детальные статьи
+2025-09-09 12:29:10,008 - INFO - Получение полного текста статьи 1: https://dzen.ru/a/aL_b3NPKJCJqvrhq?utm_source=yxnews&utm_medium=desktop&utm_referrer=https%3A%2F%2Fdzen.ru%2Fnews%2Fstory%2Fcc778f59-9b75-5380-9790-2911787c3fb7
+2025-09-09 12:29:12,639 - INFO - Получен текст статьи 1 (530 символов)
+2025-09-09 12:29:14,102 - WARNING - Ошибка при получении статьи 2: Execution context was destroyed, most likely because of a navigation
+2025-09-09 12:29:14,102 - INFO - Получено 1 полных текстов статей
+2025-09-09 12:29:16,442 - INFO - Обработано: Российское правительство запустило официальный канал в мессенджере MAX
+2025-09-09 12:29:18,629 - INFO - Сбор контента для: Россияне до 1 октября должны выбрать форму получения соцподдержки
+2025-09-09 12:29:21,984 - INFO - Поиск детальных статей для сюжета
+2025-09-09 12:29:21,994 - INFO - Найдено 14 ссылок на детальные статьи
+2025-09-09 12:29:21,999 - INFO - Получение полного текста статьи 1: https://dzen.ru/a/aL-4p9PKJCJquH6t?utm_source=yxnews&utm_medium=desktop&utm_referrer=https%3A%2F%2Fdzen.ru%2Fnews%2Fstory%2Fb47b1c1f-30a2-5e58-8c35-a359f9d80fdf
+2025-09-09 12:29:24,651 - INFO - Получен текст статьи 1 (2156 символов)
+2025-09-09 12:29:26,552 - WARNING - Ошибка при получении статьи 2: Execution context was destroyed, most likely because of a navigation
+2025-09-09 12:29:26,552 - INFO - Получено 1 полных текстов статей
+2025-09-09 12:29:28,813 - INFO - Обработано: Россияне до 1 октября должны выбрать форму получения соцподдержки
+2025-09-09 12:29:31,482 - INFO - Сбор контента для: Симоньян после операции поблагодарила всех, кто переживал и молился за нее
+2025-09-09 12:29:34,879 - INFO - Поиск детальных статей для сюжета
+2025-09-09 12:29:34,890 - INFO - Найдено 14 ссылок на детальные статьи
+2025-09-09 12:29:34,911 - INFO - Получение полного текста статьи 1: https://dzen.ru/a/aL9X8dPKJCJqrTl8?utm_source=yxnews&utm_medium=desktop&utm_referrer=https%3A%2F%2Fdzen.ru%2Fnews%2Fstory%2F8c0a7148-2f2f-5642-9a89-96ffa4d8dca1
+2025-09-09 12:29:38,223 - INFO - Получен текст статьи 1 (701 символов)
+2025-09-09 12:29:39,732 - WARNING - Ошибка при получении статьи 2: Execution context was destroyed, most likely because of a navigation
+2025-09-09 12:29:39,732 - INFO - Получено 1 полных текстов статей
+2025-09-09 12:29:42,100 - INFO - Обработано: Симоньян после операции поблагодарила всех, кто переживал и молился за нее
+2025-09-09 12:29:45,035 - INFO - Сбор контента для: Пенсионер выиграл в лотерею 33 млн рублей после совета кассира взять три билета
+2025-09-09 12:29:48,329 - INFO - Поиск детальных статей для сюжета
+2025-09-09 12:29:48,339 - INFO - Найдено 12 ссылок на детальные статьи
+2025-09-09 12:29:48,343 - INFO - Получение полного текста статьи 1: https://dzen.ru/a/aL_YYQjYcBIBt8qP?utm_source=yxnews&utm_medium=desktop&utm_referrer=https%3A%2F%2Fdzen.ru%2Fnews%2Fstory%2Fa6bcadaf-98d2-54b9-aa5f-1891bcd0861d
+2025-09-09 12:29:51,010 - INFO - Получен текст статьи 1 (942 символов)
+2025-09-09 12:29:52,409 - WARNING - Ошибка при получении статьи 2: Execution context was destroyed, most likely because of a navigation
+2025-09-09 12:29:52,409 - INFO - Получено 1 полных текстов статей
+2025-09-09 12:29:54,553 - INFO - Обработано: Пенсионер выиграл в лотерею 33 млн рублей после совета кассира взять три билета
+2025-09-09 12:29:58,471 - INFO - Сбор новостей из рубрики: Литва
+2025-09-09 12:30:02,464 - ERROR - Критическая ошибка: Connection closed while reading from the driver
+2025-09-09 12:30:02,470 - ERROR - Future exception was never retrieved
+future: <Future finished exception=TargetClosedError('Target page, context or browser has been closed')>
+playwright._impl._errors.TargetClosedError: Target page, context or browser has been closed
+2025-09-09 12:30:37,640 - INFO - База данных инициализирована: output/news_database.db
+2025-09-09 12:30:37,640 - INFO - Запуск сбора новостей с Dzen.ru
+2025-09-09 12:30:38,060 - INFO - Браузер инициализирован успешно
+2025-09-09 12:30:38,061 - INFO - Переход на главную страницу: https://dzen.ru/news
+2025-09-09 12:31:22,749 - ERROR - Критическая ошибка: Connection closed while reading from the driver
+2025-09-09 12:31:22,755 - ERROR - Future exception was never retrieved
+future: <Future finished exception=TargetClosedError('Target page, context or browser has been closed')>
+playwright._impl._errors.TargetClosedError: Target page, context or browser has been closed
+2025-09-09 12:31:23,368 - INFO - База данных инициализирована: output/news_database.db
+2025-09-09 12:31:23,368 - INFO - Запуск сбора новостей с Dzen.ru
+2025-09-09 12:31:23,809 - INFO - Браузер инициализирован успешно
+2025-09-09 12:31:23,809 - INFO - Переход на главную страницу: https://dzen.ru/news
+2025-09-09 12:31:36,183 - INFO - Найдено рубрик: 16
+2025-09-09 12:31:36,183 - INFO -   - Главное: https://dzen.ru/news
+2025-09-09 12:31:36,183 - INFO -   - Литва: https://dzen.ru/news/region/lithuania
+2025-09-09 12:31:36,183 - INFO -   - Свежее: https://dzen.ru/news/rubric/chronologic
+2025-09-09 12:31:36,183 - INFO -   - Интересное: https://dzen.ru/news/rubric/personal_feed
+2025-09-09 12:31:36,183 - INFO -   - Общество: https://dzen.ru/news/rubric/society
+2025-09-09 12:31:36,183 - INFO -   - Политика: https://dzen.ru/news/rubric/politics
+2025-09-09 12:31:36,183 - INFO -   - СВО: https://dzen.ru/news/rubric/svo
+2025-09-09 12:31:36,183 - INFO -   - Экономика: https://dzen.ru/news/rubric/business
+2025-09-09 12:31:36,183 - INFO -   - Спорт: https://sportsdzen.ru/news/rubric/sport?utm_source=yxnews&utm_medium=desktop
+2025-09-09 12:31:36,183 - INFO -   - В мире: https://dzen.ru/news/rubric/world
+2025-09-09 12:31:36,183 - INFO -   - Шоу-бизнес: https://dzen.ru/news/rubric/showbusiness
+2025-09-09 12:31:36,184 - INFO -   - Происшествия: https://dzen.ru/news/rubric/incident
+2025-09-09 12:31:36,184 - INFO -   - Культура: https://dzen.ru/news/rubric/culture
+2025-09-09 12:31:36,184 - INFO -   - Технологии: https://dzen.ru/news/rubric/computers
+2025-09-09 12:31:36,184 - INFO -   - Авто: https://dzen.ru/news/rubric/auto
+2025-09-09 12:31:36,184 - INFO -   - Наука: https://dzen.ru/news/rubric/science
+2025-09-09 12:31:39,436 - INFO - Сбор новостей из рубрики: Главное
+2025-09-09 12:31:47,090 - INFO - Новость уже обработана, пропускаем: На канал Путина в Max подписались более 150 тыс. человек
+2025-09-09 12:31:47,106 - INFO - Новость уже обработана, пропускаем: Российское правительство запустило официальный канал в мессенджере MAX
+2025-09-09 12:31:47,135 - INFO - Новость уже обработана, пропускаем: Россияне до 1 октября должны выбрать форму получения соцподдержки
+2025-09-09 12:31:47,152 - INFO - Новость уже обработана, пропускаем: Симоньян после операции поблагодарила всех, кто переживал и молился за нее
+2025-09-09 12:31:47,172 - INFO - Новость уже обработана, пропускаем: Пенсионер выиграл в лотерею 33 млн рублей после совета кассира взять три билета
+2025-09-09 12:31:47,273 - INFO - Собрано 5 новостей из рубрики Главное
+2025-09-09 12:31:48,327 - INFO - Сбор контента для: RS: Трампу стоит удвоить дипломатические усилия после слов Путина
+2025-09-09 12:31:51,470 - INFO - Поиск детальных статей для сюжета
+2025-09-09 12:31:51,481 - INFO - Найдено 7 ссылок на детальные статьи
+2025-09-09 12:31:51,487 - INFO - Получение полного текста статьи 1: https://dzen.ru/a/aL_F3dPKJCJqurU0?utm_source=yxnews&utm_medium=desktop&utm_referrer=https%3A%2F%2Fdzen.ru%2Fnews%2Fstory%2F9a7525ab-0f92-5c47-807e-ba7b58071fb3
+2025-09-09 12:31:55,049 - INFO - Получен текст статьи 1 (1518 символов)
+2025-09-09 12:31:56,374 - WARNING - Ошибка при получении статьи 2: Execution context was destroyed, most likely because of a navigation
+2025-09-09 12:31:56,374 - INFO - Получено 1 полных текстов статей
+2025-09-09 12:31:58,551 - INFO - Обработано: RS: Трампу стоит удвоить дипломатические усилия после слов Путина
+2025-09-09 12:32:01,085 - INFO - Сбор контента для: Минфин включил продажу Домодедово в план до конца года
+2025-09-09 12:32:04,607 - INFO - Поиск детальных статей для сюжета
+2025-09-09 12:32:04,616 - INFO - Найдено 10 ссылок на детальные статьи
+2025-09-09 12:32:04,622 - INFO - Получение полного текста статьи 1: https://dzen.ru/a/aL_KPtPKJCJqu2uc?utm_source=yxnews&utm_medium=desktop&utm_referrer=https%3A%2F%2Fdzen.ru%2Fnews%2Fstory%2F9fa2ce74-85c0-5be7-8a1d-ab844f75f88f
+2025-09-09 12:32:07,749 - INFO - Получен текст статьи 1 (715 символов)
+2025-09-09 12:32:08,860 - WARNING - Ошибка при получении статьи 2: Execution context was destroyed, most likely because of a navigation
+2025-09-09 12:32:08,860 - INFO - Получено 1 полных текстов статей
+2025-09-09 12:32:11,407 - INFO - Обработано: Минфин включил продажу Домодедово в план до конца года
+2025-09-09 12:32:12,462 - INFO - Сбор контента для: Кобяков: Разведка ФРГ сняла с рейса немцев, ехавших на ПМЭФ в Россию
+2025-09-09 12:32:16,046 - INFO - Поиск детальных статей для сюжета
+2025-09-09 12:32:16,059 - INFO - Найдено 14 ссылок на детальные статьи
+2025-09-09 12:32:16,110 - INFO - Получение полного текста статьи 1: https://dzen.ru/a/aL_MbdPKJCJqu8js?utm_source=yxnews&utm_medium=desktop&utm_referrer=https%3A%2F%2Fdzen.ru%2Fnews%2Fstory%2F26265666-323a-574a-ba28-1c261ebd2fac
+2025-09-09 12:32:18,776 - INFO - Получен текст статьи 1 (1204 символов)
+2025-09-09 12:32:20,683 - WARNING - Ошибка при получении статьи 2: Execution context was destroyed, most likely because of a navigation
+2025-09-09 12:32:20,683 - INFO - Получено 1 полных текстов статей
+2025-09-09 12:32:23,033 - INFO - Обработано: Кобяков: Разведка ФРГ сняла с рейса немцев, ехавших на ПМЭФ в Россию
+2025-09-09 12:32:23,034 - INFO - Всего собрано новостей: 3
+2025-09-09 12:32:23,151 - INFO - JSON сохранен: output/dzen_news_20250909_123223.json
+2025-09-09 12:32:23,152 - INFO - Актуальная RSS лента: output/dzen_news_current.rss
+2025-09-09 12:32:23,153 - INFO - Успешно обработано 3 новостей
+2025-09-09 12:33:53,628 - INFO - База данных инициализирована: output/news_database.db
+2025-09-09 12:33:53,628 - INFO - Запуск сбора новостей с Dzen.ru
+2025-09-09 12:33:54,077 - INFO - Браузер инициализирован успешно
+2025-09-09 12:33:54,077 - INFO - Переход на главную страницу: https://dzen.ru/news
+2025-09-09 12:34:07,837 - INFO - Найдено рубрик: 16
+2025-09-09 12:34:07,837 - INFO -   - Главное: https://dzen.ru/news
+2025-09-09 12:34:07,837 - INFO -   - Литва: https://dzen.ru/news/region/lithuania
+2025-09-09 12:34:07,837 - INFO -   - Свежее: https://dzen.ru/news/rubric/chronologic
+2025-09-09 12:34:07,837 - INFO -   - Интересное: https://dzen.ru/news/rubric/personal_feed
+2025-09-09 12:34:07,837 - INFO -   - Общество: https://dzen.ru/news/rubric/society
+2025-09-09 12:34:07,837 - INFO -   - Политика: https://dzen.ru/news/rubric/politics
+2025-09-09 12:34:07,838 - INFO -   - СВО: https://dzen.ru/news/rubric/svo
+2025-09-09 12:34:07,838 - INFO -   - Экономика: https://dzen.ru/news/rubric/business
+2025-09-09 12:34:07,838 - INFO -   - Спорт: https://sportsdzen.ru/news/rubric/sport?utm_source=yxnews&utm_medium=desktop
+2025-09-09 12:34:07,838 - INFO -   - В мире: https://dzen.ru/news/rubric/world
+2025-09-09 12:34:07,838 - INFO -   - Шоу-бизнес: https://dzen.ru/news/rubric/showbusiness
+2025-09-09 12:34:07,838 - INFO -   - Происшествия: https://dzen.ru/news/rubric/incident
+2025-09-09 12:34:07,838 - INFO -   - Культура: https://dzen.ru/news/rubric/culture
+2025-09-09 12:34:07,838 - INFO -   - Технологии: https://dzen.ru/news/rubric/computers
+2025-09-09 12:34:07,838 - INFO -   - Авто: https://dzen.ru/news/rubric/auto
+2025-09-09 12:34:07,838 - INFO -   - Наука: https://dzen.ru/news/rubric/science
+2025-09-09 12:34:11,225 - INFO - Сбор новостей из рубрики: Главное
+2025-09-09 12:34:21,384 - INFO - Новость уже обработана, пропускаем: На канал Путина в Max подписались более 150 тыс. человек
+2025-09-09 12:34:21,399 - INFO - Новость уже обработана, пропускаем: Российское правительство запустило официальный канал в мессенджере MAX
+2025-09-09 12:34:21,414 - INFO - Новость уже обработана, пропускаем: Россияне до 1 октября должны выбрать форму получения соцподдержки
+2025-09-09 12:34:21,429 - INFO - Новость уже обработана, пропускаем: Симоньян после операции поблагодарила всех, кто переживал и молился за нее
+2025-09-09 12:34:21,444 - INFO - Новость уже обработана, пропускаем: Пенсионер выиграл в лотерею 33 млн рублей после совета кассира взять три билета
+2025-09-09 12:34:21,460 - INFO - Новость уже обработана, пропускаем: Минфин включил продажу Домодедово в план до конца года
+2025-09-09 12:34:21,490 - INFO - Новость уже обработана, пропускаем: RS: Трампу стоит удвоить дипломатические усилия после слов Путина
+2025-09-09 12:34:21,519 - INFO - Собрано 3 новостей из рубрики Главное
+2025-09-09 12:34:22,817 - INFO - Сбор контента для: Членов правительства Катманду эвакуируют из-за протестов, идет волна отставок
+2025-09-09 12:34:26,800 - INFO - Поиск детальных статей для сюжета
+2025-09-09 12:34:26,812 - INFO - Найдено 14 ссылок на детальные статьи
+2025-09-09 12:34:26,848 - INFO - Получение полного текста статьи 1: https://dzen.ru/a/aL_k2AjYcBIBudpc?utm_source=yxnews&utm_medium=desktop&utm_referrer=https%3A%2F%2Fdzen.ru%2Fnews%2Fstory%2F042c3427-2534-53bb-9ae1-f4ffbb7257e8
+2025-09-09 12:34:29,664 - INFO - Получен текст статьи 1 (493 символов)
+2025-09-09 12:34:31,109 - WARNING - Ошибка при получении статьи 2: Execution context was destroyed, most likely because of a navigation
+2025-09-09 12:34:31,109 - INFO - Получено 1 полных текстов статей
+2025-09-09 12:34:33,323 - INFO - Обработано: Членов правительства Катманду эвакуируют из-за протестов, идет волна отставок
+2025-09-09 12:34:35,867 - INFO - Сбор контента для: МИД РФ: Иноагенты начали атаку после слов Лаврова о берлинских стенах
+2025-09-09 12:34:39,451 - INFO - Поиск детальных статей для сюжета
+2025-09-09 12:34:39,462 - INFO - Найдено 14 ссылок на детальные статьи
+2025-09-09 12:34:39,468 - INFO - Получение полного текста статьи 1: https://dzen.ru/a/aL8rzdPKJCJqqFaB?utm_source=yxnews&utm_medium=desktop&utm_referrer=https%3A%2F%2Fdzen.ru%2Fnews%2Fstory%2F85f3ee6f-aec9-528d-adae-3f7e52ada541
+2025-09-09 12:34:42,113 - INFO - Получен текст статьи 1 (1976 символов)
+2025-09-09 12:34:43,305 - WARNING - Ошибка при получении статьи 2: Execution context was destroyed, most likely because of a navigation
+2025-09-09 12:34:43,305 - INFO - Получено 1 полных текстов статей
+2025-09-09 12:34:45,469 - INFO - Обработано: МИД РФ: Иноагенты начали атаку после слов Лаврова о берлинских стенах
+2025-09-09 12:34:48,346 - INFO - Сбор контента для: Захарова назвала Бербок антисимволом юбилейной Генассамблеи ООН
+2025-09-09 12:34:51,682 - INFO - Поиск детальных статей для сюжета
+2025-09-09 12:34:51,769 - INFO - Найдено 14 ссылок на детальные статьи
+2025-09-09 12:34:51,814 - INFO - Получение полного текста статьи 1: https://dzen.ru/a/aL_qxgjYcBIBut-K?utm_source=yxnews&utm_medium=desktop&utm_referrer=https%3A%2F%2Fdzen.ru%2Fnews%2Fstory%2F3e85a86e-2107-5fd4-a2bb-7e12046eeb51
+2025-09-09 12:34:54,475 - INFO - Получен текст статьи 1 (709 символов)
+2025-09-09 12:34:55,543 - WARNING - Ошибка при получении статьи 2: Execution context was destroyed, most likely because of a navigation
+2025-09-09 12:34:55,543 - INFO - Получено 1 полных текстов статей
+2025-09-09 12:34:57,676 - INFO - Обработано: Захарова назвала Бербок антисимволом юбилейной Генассамблеи ООН
+2025-09-09 12:34:57,677 - INFO - Всего собрано новостей: 3
+2025-09-09 12:34:57,803 - INFO - JSON сохранен: output/dzen_news_20250909_123457.json
+2025-09-09 12:34:57,804 - INFO - Актуальная RSS лента: output/dzen_news_current.rss
+2025-09-09 12:34:57,804 - INFO - Успешно обработано 3 новостей
+2025-09-09 12:35:51,433 - INFO - База данных инициализирована: output/news_database.db
+2025-09-09 12:35:51,433 - INFO - Запуск сбора новостей с Dzen.ru
+2025-09-09 12:35:51,951 - INFO - Браузер инициализирован успешно
+2025-09-09 12:35:51,951 - INFO - Переход на главную страницу: https://dzen.ru/news
+2025-09-09 12:36:04,340 - INFO - Найдено рубрик: 16
+2025-09-09 12:36:04,341 - INFO -   - Главное: https://dzen.ru/news
+2025-09-09 12:36:04,341 - INFO -   - Литва: https://dzen.ru/news/region/lithuania
+2025-09-09 12:36:04,341 - INFO -   - Свежее: https://dzen.ru/news/rubric/chronologic
+2025-09-09 12:36:04,341 - INFO -   - Интересное: https://dzen.ru/news/rubric/personal_feed
+2025-09-09 12:36:04,341 - INFO -   - Общество: https://dzen.ru/news/rubric/society
+2025-09-09 12:36:04,341 - INFO -   - Политика: https://dzen.ru/news/rubric/politics
+2025-09-09 12:36:04,341 - INFO -   - СВО: https://dzen.ru/news/rubric/svo
+2025-09-09 12:36:04,341 - INFO -   - Экономика: https://dzen.ru/news/rubric/business
+2025-09-09 12:36:04,341 - INFO -   - Спорт: https://sportsdzen.ru/news/rubric/sport?utm_source=yxnews&utm_medium=desktop
+2025-09-09 12:36:04,341 - INFO -   - В мире: https://dzen.ru/news/rubric/world
+2025-09-09 12:36:04,341 - INFO -   - Шоу-бизнес: https://dzen.ru/news/rubric/showbusiness
+2025-09-09 12:36:04,341 - INFO -   - Происшествия: https://dzen.ru/news/rubric/incident
+2025-09-09 12:36:04,341 - INFO -   - Культура: https://dzen.ru/news/rubric/culture
+2025-09-09 12:36:04,342 - INFO -   - Технологии: https://dzen.ru/news/rubric/computers
+2025-09-09 12:36:04,342 - INFO -   - Авто: https://dzen.ru/news/rubric/auto
+2025-09-09 12:36:04,342 - INFO -   - Наука: https://dzen.ru/news/rubric/science
+2025-09-09 12:36:08,051 - INFO - Сбор новостей из рубрики: Главное
+2025-09-09 12:36:16,093 - INFO - Собрано 10 новостей из рубрики Главное
+2025-09-09 12:36:17,839 - INFO - Сбор контента для: На канал Путина в Max подписались более 150 тыс. человек
+2025-09-09 12:36:21,776 - INFO - Поиск детальных статей для сюжета
+2025-09-09 12:36:21,788 - INFO - Найдено 14 ссылок на детальные статьи
+2025-09-09 12:36:21,793 - INFO - Получение полного текста статьи 1: https://dzen.ru/a/aL_QuQjYcBIBtnyv?utm_source=yxnews&utm_medium=desktop&utm_referrer=https%3A%2F%2Fdzen.ru%2Fnews%2Fstory%2Fc044cf2f-1c86-5dc2-b5ea-31f6d578394d
+2025-09-09 12:36:24,890 - INFO - Получен текст статьи 1 (964 символов)
+2025-09-09 12:36:25,918 - WARNING - Ошибка при получении статьи 2: Execution context was destroyed, most likely because of a navigation
+2025-09-09 12:36:25,918 - INFO - Получено 1 полных текстов статей
+2025-09-09 12:36:28,146 - INFO - Обработано: На канал Путина в Max подписались более 150 тыс. человек
+2025-09-09 12:36:29,165 - INFO - Сбор контента для: Российское правительство запустило официальный канал в мессенджере MAX
+2025-09-09 12:36:32,386 - INFO - Поиск детальных статей для сюжета
+2025-09-09 12:36:32,397 - INFO - Найдено 14 ссылок на детальные статьи
+2025-09-09 12:36:32,424 - INFO - Получение полного текста статьи 1: https://dzen.ru/a/aL_b3NPKJCJqvrhq?utm_source=yxnews&utm_medium=desktop&utm_referrer=https%3A%2F%2Fdzen.ru%2Fnews%2Fstory%2Fcc778f59-9b75-5380-9790-2911787c3fb7
+2025-09-09 12:36:35,548 - INFO - Получен текст статьи 1 (530 символов)
+2025-09-09 12:36:37,302 - WARNING - Ошибка при получении статьи 2: Execution context was destroyed, most likely because of a navigation
+2025-09-09 12:36:37,302 - INFO - Получено 1 полных текстов статей
+2025-09-09 12:36:39,456 - INFO - Обработано: Российское правительство запустило официальный канал в мессенджере MAX
+2025-09-09 12:36:42,194 - INFO - Сбор контента для: Россияне до 1 октября должны выбрать форму получения соцподдержки
+2025-09-09 12:36:45,518 - INFO - Поиск детальных статей для сюжета
+2025-09-09 12:36:45,530 - INFO - Найдено 14 ссылок на детальные статьи
+2025-09-09 12:36:45,536 - INFO - Получение полного текста статьи 1: https://dzen.ru/a/aL-tzdPKJCJqttsE?utm_source=yxnews&utm_medium=desktop&utm_referrer=https%3A%2F%2Fdzen.ru%2Fnews%2Fstory%2Fb47b1c1f-30a2-5e58-8c35-a359f9d80fdf
+2025-09-09 12:36:48,351 - INFO - Получен текст статьи 1 (890 символов)
+2025-09-09 12:36:49,384 - WARNING - Ошибка при получении статьи 2: Execution context was destroyed, most likely because of a navigation
+2025-09-09 12:36:49,384 - INFO - Получено 1 полных текстов статей
+2025-09-09 12:36:51,615 - INFO - Обработано: Россияне до 1 октября должны выбрать форму получения соцподдержки
+2025-09-09 12:36:51,615 - INFO - Всего собрано новостей: 3
+2025-09-09 12:36:51,733 - INFO - JSON сохранен: output/dzen_news_20250909_123651.json
+2025-09-09 12:36:51,734 - INFO - Актуальная RSS лента: output/dzen_news_current.rss
+2025-09-09 12:36:51,734 - INFO - Успешно обработано 3 новостей
+2025-09-09 12:37:00,573 - INFO - База данных инициализирована: output/news_database.db
+2025-09-09 12:37:00,573 - INFO - Запуск сбора новостей с Dzen.ru
+2025-09-09 12:37:01,003 - INFO - Браузер инициализирован успешно
+2025-09-09 12:37:01,003 - INFO - Переход на главную страницу: https://dzen.ru/news
+2025-09-09 12:37:14,502 - INFO - Найдено рубрик: 16
+2025-09-09 12:37:14,502 - INFO -   - Главное: https://dzen.ru/news
+2025-09-09 12:37:14,502 - INFO -   - Литва: https://dzen.ru/news/region/lithuania
+2025-09-09 12:37:14,502 - INFO -   - Свежее: https://dzen.ru/news/rubric/chronologic
+2025-09-09 12:37:14,502 - INFO -   - Интересное: https://dzen.ru/news/rubric/personal_feed
+2025-09-09 12:37:14,502 - INFO -   - Общество: https://dzen.ru/news/rubric/society
+2025-09-09 12:37:14,502 - INFO -   - Политика: https://dzen.ru/news/rubric/politics
+2025-09-09 12:37:14,503 - INFO -   - СВО: https://dzen.ru/news/rubric/svo
+2025-09-09 12:37:14,503 - INFO -   - Экономика: https://dzen.ru/news/rubric/business
+2025-09-09 12:37:14,503 - INFO -   - Спорт: https://sportsdzen.ru/news/rubric/sport?utm_source=yxnews&utm_medium=desktop
+2025-09-09 12:37:14,503 - INFO -   - В мире: https://dzen.ru/news/rubric/world
+2025-09-09 12:37:14,503 - INFO -   - Шоу-бизнес: https://dzen.ru/news/rubric/showbusiness
+2025-09-09 12:37:14,503 - INFO -   - Происшествия: https://dzen.ru/news/rubric/incident
+2025-09-09 12:37:14,503 - INFO -   - Культура: https://dzen.ru/news/rubric/culture
+2025-09-09 12:37:14,503 - INFO -   - Технологии: https://dzen.ru/news/rubric/computers
+2025-09-09 12:37:14,503 - INFO -   - Авто: https://dzen.ru/news/rubric/auto
+2025-09-09 12:37:14,503 - INFO -   - Наука: https://dzen.ru/news/rubric/science
+2025-09-09 12:37:17,873 - INFO - Сбор новостей из рубрики: Главное
+2025-09-09 12:37:26,186 - INFO - Новость уже обработана, пропускаем: На канал Путина в Max подписались более 150 тыс. человек
+2025-09-09 12:37:26,201 - INFO - Новость уже обработана, пропускаем: Российское правительство запустило официальный канал в мессенджере MAX
+2025-09-09 12:37:26,217 - INFO - Новость уже обработана, пропускаем: Россияне до 1 октября должны выбрать форму получения соцподдержки
+2025-09-09 12:37:26,322 - INFO - Собрано 7 новостей из рубрики Главное
+2025-09-09 12:37:29,276 - INFO - Сбор контента для: Симоньян после операции поблагодарила всех, кто переживал и молился за нее
+2025-09-09 12:37:32,285 - INFO - Поиск детальных статей для сюжета
+2025-09-09 12:37:32,297 - INFO - Найдено 7 ссылок на детальные статьи
+2025-09-09 12:37:32,306 - INFO - Получение полного текста статьи 1: https://dzen.ru/a/aL9X8dPKJCJqrTl8?utm_source=yxnews&utm_medium=desktop&utm_referrer=https%3A%2F%2Fdzen.ru%2Fnews%2Fstory%2F8c0a7148-2f2f-5642-9a89-96ffa4d8dca1
+2025-09-09 12:37:35,649 - INFO - Получен текст статьи 1 (701 символов)
+2025-09-09 12:37:37,530 - WARNING - Ошибка при получении статьи 2: Execution context was destroyed, most likely because of a navigation
+2025-09-09 12:37:37,530 - INFO - Получено 1 полных текстов статей
+2025-09-09 12:37:39,723 - INFO - Обработано: Симоньян после операции поблагодарила всех, кто переживал и молился за нее
+2025-09-09 12:37:42,657 - INFO - Сбор контента для: Пенсионер выиграл в лотерею 33 млн рублей после совета кассира взять три билета
+2025-09-09 12:37:45,953 - INFO - Поиск детальных статей для сюжета
+2025-09-09 12:37:45,966 - INFO - Найдено 14 ссылок на детальные статьи
+2025-09-09 12:37:45,996 - INFO - Получение полного текста статьи 1: https://dzen.ru/a/aL_YYQjYcBIBt8qP?utm_source=yxnews&utm_medium=desktop&utm_referrer=https%3A%2F%2Fdzen.ru%2Fnews%2Fstory%2Fa6bcadaf-98d2-54b9-aa5f-1891bcd0861d
+2025-09-09 12:37:49,369 - INFO - Получен текст статьи 1 (942 символов)
+2025-09-09 12:37:50,950 - WARNING - Ошибка при получении статьи 2: Execution context was destroyed, most likely because of a navigation
+2025-09-09 12:37:50,951 - INFO - Получено 1 полных текстов статей
